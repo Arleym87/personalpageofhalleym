@@ -1,2 +1,2 @@
-# personalpageofhalleym
-FullStack course creation of personal page for fictician person Halley M
+# personal-page-of-linux
+FullStack course creation of personal page for fictician person Linux
